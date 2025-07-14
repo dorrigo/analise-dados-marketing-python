@@ -1,5 +1,7 @@
 # Projeto de Tratamento e Análise de Dados de Marketing com Python 
 
+Você pode conferir os gráficos e códigos no arquivo df_mkt encontrado no repositório.
+
 ## Análise de Engajamento por Categoria
 
 A análise dos dados revela que a categoria **Esportes** apresenta o **melhor desempenho** em taxa de engajamento, seguida de perto pela categoria **Fashion**, que mostra um resultado bem próximo. Em contraste, as categorias **Tecnologia** e **Comida** registram os **indicadores mais baixos** de engajamento.

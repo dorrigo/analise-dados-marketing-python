@@ -33,6 +33,31 @@ Para **crescimento de base** (aquisição de seguidores):
 
 ---
 
+### Análise da Efetividade dos Posts ao Longo do Dia
+
+Podemos identificar no **Histograma das postagens** uma menor concentração de posts nos horários das **6h e 11h da manhã**, o que confirma a baixa de engajamento no mapa de calor (com temas abaixo da média de 2.5 no intervalo). Para contornar esse problema, o ideal seria:
+
+- Trabalhar mais os conteúdos de tema **Fashion** e **Comida** que apresentam maior taxa de engajamento nestes horários com menos volume de posts
+- Propor posts com **temas cruzados** entre eles
+
+**Período Vespertino (a partir das 14h):**
+- Maior volume de postagens do dia
+- Todos os temas apresentam taxa de engajamento próxima
+- Oportunidade de manter diversificação de conteúdos
+
+**Período Noturno/Madrugada:**
+- **Destaque de engajamento**:
+  - Conteúdo de **Esportes** (taxa acima de 3, superior à média)
+  - Posts de **Comida** (para o público noturno)
+  
+**Insight Final:**
+É interessante explorar esses dados para entender:
+- Padrões de consumo por horário
+- Preferências do público em diferentes turnos
+- Criar pautas de conteúdo baseadas em evidências
+
+---
+
 ## Análise da Distribuição de Postagens com Spam
 
 É preocupante para uma rede social que **mais da metade** dos posts apresentem **Spam Flag**. É importante monitorar:  

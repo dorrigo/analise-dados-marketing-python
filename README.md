@@ -1,6 +1,6 @@
 # Projeto de Tratamento e Análise de Dados de Marketing com Python 
 
-Você pode conferir os gráficos e códigos no arquivo df_mkt encontrado no repositório.
+Você pode conferir os gráficos e códigos no arquivo **df_mkt** encontrado no repositório.
 
 ## Análise de Engajamento por Categoria
 
